@@ -1,0 +1,18 @@
+# Результаты сборки (только бинарник, не папка проекта)
+**/expedition/expedition
+**/expedition/expedition_tsan
+*.o
+*.dSYM/
+
+# Журналы прогонов (expedition.log, tests/*.log)
+*.log
+
+# PDF с заданием и требованиями
+*.pdf
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
