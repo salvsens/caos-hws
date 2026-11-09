@@ -1,5 +1,6 @@
 # Результаты сборки (только бинарник, не папка проекта)
 **/expedition/expedition
+**/expedition/expedition_u
 **/expedition/expedition_tsan
 *.o
 *.dSYM/
